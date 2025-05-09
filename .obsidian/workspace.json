@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afdccafe21050574",
+        "id": "a920e4bfc3dbb019",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf905ddf219dabf",
+            "id": "c78b3aca70635568",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -224,15 +224,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebf905ddf219dabf",
+  "active": "c78b3aca70635568",
   "lastOpenFiles": [
+    "Digitize/Company Research.md",
     "Mathworks EDG (Failed)/Hiring Process.md",
     "README.md",
     "Mathworks EDG (Failed)/Minimum Travel Cost.md",
     "Mathworks EDG (Failed)/Introductions.md",
     "Mathworks EDG (Failed)/Hackerrank Questions.md",
     "Atena Darvishi/Meeting.md",
-    "Digitize/Company Research.md",
     "IS&S Job Interview (Failed)/Day before Interview.md",
     "IS&S Job Interview (Failed)/DO-178C.md",
     "Python/Python String Methods.md",
