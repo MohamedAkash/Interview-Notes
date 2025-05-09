@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "523ee9702cd7db78",
+        "id": "afdccafe21050574",
         "type": "tabs",
         "children": [
           {
-            "id": "b189b7fb334057fb",
+            "id": "ebf905ddf219dabf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -83,7 +83,6 @@
       {
         "id": "14fefefab1707d25",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "934673a2e3a04970",
@@ -205,27 +204,10 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "d6bc9e0a712f6744",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "031e989469f39f70",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1095.5
+    "width": 680.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,6 +222,8 @@
   },
   "active": "6dbd95293385cd01",
   "lastOpenFiles": [
+    "Mathworks EDG (Failed)/Hiring Process.md",
+    "Mathworks EDG (Failed)/Hackerrank Questions.md",
     "Python/Python String Methods.md",
     "Python/Python OOP.md",
     "Python",
@@ -268,8 +252,6 @@
     "Journal/Other/Study/Leetcode/70. Climbing Stairs.md",
     "Journal/Other/Study/Leetcode/DP",
     "Journal/Other/Study/Leetcode/Bit",
-    "Journal/Other/Inteviews/Digitize/Company Research.md",
-    "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/10. Graphs/2. Matrix DFS.md",
     "Journal/Other/Inteviews/Digitize",
     "Journal/Other/Study/Leetcode/Adjacency Lists",
     "Journal/Other/Study/Leetcode/Matrix BFS",
