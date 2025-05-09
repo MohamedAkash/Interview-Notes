@@ -1,0 +1,5 @@
+{
+  "template": "Template/Template Daily Notes",
+  "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
+  "folder": "Timestamps"
+}

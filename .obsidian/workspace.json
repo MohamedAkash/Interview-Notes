@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "1535843d6fbb35f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "523ee9702cd7db78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b189b7fb334057fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d29eef55a3dbfda8",
+    "type": "split",
+    "children": [
+      {
+        "id": "335e8fc3008d2593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9787d266e02ae7c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e501e3f89d0ec70d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#BookType",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6547277d4385b07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "de6e84325d7dce68",
+    "type": "split",
+    "children": [
+      {
+        "id": "14fefefab1707d25",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "934673a2e3a04970",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/Other/Study/Leetcode/20. Valid Parentheses.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20. Valid Parentheses"
+            }
+          },
+          {
+            "id": "7700df0a145475af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/Other/Study/Leetcode/20. Valid Parentheses.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20. Valid Parentheses"
+            }
+          },
+          {
+            "id": "52aaef6607e9fb78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1aabbaef7f8835ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/6. Trees/3. BST Insert and Remove.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. BST Insert and Remove"
+            }
+          },
+          {
+            "id": "6dbd95293385cd01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "087981fec415e3dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9afdfa0cf1da33ed",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c5dcd76d8993f002",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0859b63417ee9905",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9f39cb81d1b6d961",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "d6bc9e0a712f6744",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "031e989469f39f70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1095.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6dbd95293385cd01",
+  "lastOpenFiles": [
+    "Python/Python String Methods.md",
+    "Python/Python OOP.md",
+    "Python",
+    "8. Exhaustive Recursion/4. parenthetical-possibilites.md",
+    "8. Exhaustive Recursion/2. permutations.md",
+    "Journal/Other/Study/Structy/1. Array and String/9. Intersection.md",
+    "Journal/Other/Study/Structy/1. Array and String/7. uncompress.md",
+    "Journal/Other/Study/Structy/1. Array and String/8. Compress.md",
+    "Journal/Other/Study/Structy/1. Array and String/2. big-o examples.md",
+    "Journal/Other/Study/Structy/1. Array and String/1. big-o basics.md",
+    "Journal/Other/Study/Structy/0. Introduction/isPrime.md",
+    "Journal/Other/Study/Structy/7. Stack/1. paired-parentheses.md",
+    "Journal/Other/Study/Python/Python String Methods.md",
+    "Journal/Other/Study/Python/Python OOP.md",
+    "Journal/Other/Study/Leetcode/Bit/191. Number of 1 Bits.md",
+    "Journal/Other/Study/Leetcode/Bit/190. Reverse Bits.md",
+    "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/12. Bit Manipulation/Bit Operations.md",
+    "Journal/Other/Study/Leetcode/Bit/338. Counting Bits.md",
+    "Journal/Other/Study/Leetcode/DP/63. Unique Paths II.md",
+    "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/11. Dynamic Programming/2-Dimension DP.md",
+    "Journal/Other/Study/Neetcode/Pasted image 20241231115231.png",
+    "Journal/Other/Study/Leetcode/DP/1143. Longest Common Subsequence.md",
+    "Journal/Other/Study/Leetcode/DP/62. Unique Paths.md",
+    "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/11. Dynamic Programming/1-Dimension DP.md",
+    "Journal/Other/Study/Leetcode/DP/198. House Robber.md",
+    "Journal/Other/Study/Leetcode/70. Climbing Stairs.md",
+    "Journal/Other/Study/Leetcode/DP",
+    "Journal/Other/Study/Leetcode/Bit",
+    "Journal/Other/Inteviews/Digitize/Company Research.md",
+    "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/10. Graphs/2. Matrix DFS.md",
+    "Journal/Other/Inteviews/Digitize",
+    "Journal/Other/Study/Leetcode/Adjacency Lists",
+    "Journal/Other/Study/Leetcode/Matrix BFS",
+    "Journal/Other/Study/Leetcode/Matrix DFS",
+    "Journal/Other/Study/Leetcode/HashMap",
+    "Journal/Other/Study/Leetcode/Heap",
+    "Journal/Other/Study/Leetcode/BackTracking",
+    "Pasted image 20241228103413.png",
+    "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/Untitled.canvas",
+    "Journal/Other/Study/Neetcode/Lessons/NetC-imgs/Pasted image 20241222004159.png",
+    "Journal/Other/Study/Neetcode/Lessons/NetC-imgs/Pasted image 20241222005020.png",
+    "Journal/Other/Study/Structy/9. Mixed Recall/mixed-recall-imgs/Pasted image 20241218201314.png",
+    "Journal/Other/Study/Structy/9. Mixed Recall/mixed-recall-imgs/Pasted image 20241218201323.png",
+    "Journal/Other/Study/Structy/9. Mixed Recall/mixed-recall-imgs/Pasted image 20241218195755.png",
+    "Journal/Other/Study/Structy/9. Mixed Recall/mixed-recall-imgs/Pasted image 20241218201132.png",
+    "Journal/Other/Study/Structy/9. Mixed Recall/mixed-recall-imgs/Pasted image 20241218201121.png",
+    "Journal/Other/Study/Structy/9. Mixed Recall/mixed-recall-imgs/Pasted image 20241218200933.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
