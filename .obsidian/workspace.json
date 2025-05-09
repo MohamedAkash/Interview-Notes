@@ -11,10 +11,14 @@
             "id": "ebf905ddf219dabf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -168,8 +172,8 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-days",
+              "title": "Calendar"
             }
           },
           {
@@ -178,8 +182,8 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-days",
+              "title": "Calendar"
             }
           },
           {
@@ -188,8 +192,8 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-days",
+              "title": "Calendar"
             }
           },
           {
@@ -220,10 +224,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6dbd95293385cd01",
+  "active": "ebf905ddf219dabf",
   "lastOpenFiles": [
+    "README.md",
+    "Mathworks EDG (Failed)/Minimum Travel Cost.md",
+    "Mathworks EDG (Failed)/Introductions.md",
     "Mathworks EDG (Failed)/Hiring Process.md",
     "Mathworks EDG (Failed)/Hackerrank Questions.md",
+    "Atena Darvishi/Meeting.md",
+    "Digitize/Company Research.md",
+    "IS&S Job Interview (Failed)/Day before Interview.md",
+    "IS&S Job Interview (Failed)/DO-178C.md",
     "Python/Python String Methods.md",
     "Python/Python OOP.md",
     "Python",
@@ -242,14 +253,7 @@
     "Journal/Other/Study/Leetcode/Bit/190. Reverse Bits.md",
     "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/12. Bit Manipulation/Bit Operations.md",
     "Journal/Other/Study/Leetcode/Bit/338. Counting Bits.md",
-    "Journal/Other/Study/Leetcode/DP/63. Unique Paths II.md",
-    "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/11. Dynamic Programming/2-Dimension DP.md",
     "Journal/Other/Study/Neetcode/Pasted image 20241231115231.png",
-    "Journal/Other/Study/Leetcode/DP/1143. Longest Common Subsequence.md",
-    "Journal/Other/Study/Leetcode/DP/62. Unique Paths.md",
-    "Journal/Other/Study/Neetcode/Courses/Algorithms & Data Structures for Beginners/11. Dynamic Programming/1-Dimension DP.md",
-    "Journal/Other/Study/Leetcode/DP/198. House Robber.md",
-    "Journal/Other/Study/Leetcode/70. Climbing Stairs.md",
     "Journal/Other/Study/Leetcode/DP",
     "Journal/Other/Study/Leetcode/Bit",
     "Journal/Other/Inteviews/Digitize",
